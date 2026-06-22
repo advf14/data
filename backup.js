@@ -4,7 +4,7 @@ const fs       = require("fs");
 const path     = require("path");
 const FormData = require("form-data");
 
-const DISCORD_WEBHOOK = process.env.DISCORD_WEBHOOK || "https://discord.com/api/webhooks/1504082168035409940/qEjOIejmGCtkqjw9iWwKKZMz-tjxnwe_GlthAsMIKdvF6pK1M7HO5l05gTOhVpfWzo6e";
+const DISCORD_WEBHOOK = process.env.DISCORD_WEBHOOK || "https://discord.com/api/webhooks/1498910905885397002/rLYYLJA97yynjSNpp7RGx0kKFWd5Q-7DaOd2on-Jp3SpqFVB6DlMCGxiqrSN-og5mcmg";
 const SUPABASE_URL    = "https://iglzwveqavsctertbqzp.supabase.co";
 const SUPABASE_KEY    = "sb_publishable_j05ISrybUexE6wnko6hUAg_EXuxLqZz";
 const BACKUP_DIR      = "./backups";
